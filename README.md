@@ -40,12 +40,6 @@
 <img alt="angular" width="26px" src="https://img.icons8.com/color/240/000000/angularjs.png">
 </code>](https://angular.io/)
 [<code>
-<img alt="angular" width="26px" src="https://img.icons8.com/color/240/000000/angularjs.png">
-</code>](https://angular.io/)
-
-
-
-[<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
