@@ -16,73 +16,148 @@
 ---
 
 <!--START_SECTION:activity-->
-# Languages Tech Stack
+<h1 align=center> Skills and Tools</h1>
 
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
-<img alt="redux" width="26px" src="https://img.icons8.com/color/240/000000/redux.png" />
-</code>](https://redux.js.org/)
-[<code>
-<img alt="gatsbyjs" width="26px" src="https://img.icons8.com/color/240/000000/gatsbyjs.png" />
-</code>](https://redux.js.org/)
-[<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
-[<code>
-<img alt="vue.js" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png">
-</code>](https://vuejs.org/)
-[<code>
-<img alt="angular" width="26px" src="https://img.icons8.com/color/240/000000/angularjs.png">
-</code>](https://angular.io/)
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="Express.js" width="26px" src="https://img.icons8.com/color/240/000000/express-js.png">
-</code>](https://expressjs.com/)
-[<code>
-<img alt="nuxt.jc" width="26px" src="https://img.icons8.com/color/240/000000/nuxt-jc.png">
-</code>](https://nuxtjs.org/)
-[<code>
-<img alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
-</code>](https://www.cplusplus.com/)
-[<code>
-<img alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png">
-</code>](https://www.cplusplus.com/)
-[<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
-<img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
-</code>](https://www.latex-project.org/)
-[<code>
-<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
-</code>](https://www.mongodb.com/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Languages</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>Python</td>
+      <td align="center" width=110>JavaScript</td>
+      <td align="center" width=110>Typescript</td>
+      <td align="center" width=110>CSS</td>
+      <td align="center" width=110>HTML</td>
+    </tr>
+  </table>
 
----
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Frameworks & Libraries </th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/> </td>
+      <tr align="center"> 
+        <td align="center" width=110>React</td>
+        <td align="center" width=110>Angular</td>
+        <td align="center" width=110>Vue</td>
+        <td align="center" width=110>Gatsby</td>
+        <td align="center" width=110>Next.js</td>
+      </tr>
+      <tr>
+        <td align="center" width=110><img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></td>
+        <td align="center" width=110><img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/></td>
+        <td align="center" width=110><img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/></td>
+        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg"/> </td>
+        <td align="center" width=110><img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/></td>
+      <tr>
+        <td align="center" width=110>Node.js</td>
+        <td align="center" width=110>Express</td>
+        <td align="center" width=110>NestJs</td>
+        <td align="center" width=110>Django</td>
+        <td align="center" width=110>Ruby</td>
+      </tr>
+      </tr>
+      <tr>
+  </table>
+  <table>
+    <thead>
+    <tr>
+      <th colspan="7">Tools</th>
+    </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
+      <tr> 
+        <td align="center" width=110>PostgreSQL</td>
+        <td align="center" width=110>MySQL</td>
+        <td align="center" width=110>SQLite</td>
+        <td align="center" width=110>MongoDB</td>
+        <td align="center" width=110>Markdown</td>
+      </tr>
+    </tr>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/trello/trello-plain.svg"/> </td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>Heroku</td>
+      <td align="center" width=110>Figma</td>
+      <td align="center" width=110>Git</td>
+      <td align="center" width=110>GitHub</td>
+      <td align="center" width=110>Trello</td>
+    </tr>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/> </td> 
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td> 
+    </tr>
+    <tr> 
+      <td align="center" width=110>VSCode</td>
+      <td align="center" width=110>Pycharm</td>
+      <td align="center" width=110>IntelliJ</td>
+      <td align="center" width=110>AWS</td>
+      <td align="center" width=110>Google Cloud</td>
+    </tr>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>Docker</td>
+      <td align="center" width=110>Jenkins</td>
+      <td align="center" width=110>Jupyter</td>
+      <td align="center" width=110>Jira</td>
+      <td align="center" width=110>CodePen</td>
+    </tr>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Operating Systems</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> </td>
+      <td></td>
+    <tr> 
+      <td align="center" width=110>Windows</td>
+      <td align="center" width=110>Linux</td>
+      <td align="center" width=110>Ubuntu</td>
+      <td align="center" width=110>Debian</td>
+      <td align="center" width=110></td>
+    </tr>
+  </table>
+</div>
