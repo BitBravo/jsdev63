@@ -151,13 +151,11 @@
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> </td>
-      <td></td>
     <tr> 
       <td align="center" width=110>Windows</td>
       <td align="center" width=110>Linux</td>
       <td align="center" width=110>Ubuntu</td>
       <td align="center" width=110>Debian</td>
-      <td align="center" width=110></td>
     </tr>
   </table>
 </div>
